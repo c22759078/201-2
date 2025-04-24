@@ -1,0 +1,13 @@
+{
+    "name": "201-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "hello.js",
+    "scripts": {
+      "build": "node hello.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
